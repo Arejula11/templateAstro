@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+    --color-primary: #f5c242;
+    --color-secondary: #4b42f5;
+    --color-accent: #fff;
+    --color-accent-dark: #9B9B9B;
+    --color-text: #000;
+
+
+    --font-sans: "Roboto", sans-serif;
+    --font-display: "Roboto", sans-serif;
+    --font-mono: "Roboto", monospace;
+
+}
